@@ -1,2 +1,4 @@
-# CursoemVideo_Python3
-Repositório criado para o meu curso de Python do CursoemVideo
+# Python - CursoemVideo
+Repositório criado para os aprendizados durante o meu curso de Python.
+
+Prof: *Gustavo Guanabara - CursoemVideo*
