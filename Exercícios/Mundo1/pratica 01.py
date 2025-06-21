@@ -1,0 +1,5 @@
+p = float(input('Um pc gamer pichau custa R$: '))
+p1 = p - (p * 10 / 100)
+p2 = p + (p * 8 / 100)
+print('O preço do PC para pagamento à vista é: R${:.2f}'.format(p1))
+print('O preço do PC para pagamento a prazo é: R${:.2f}'.format(p2))
