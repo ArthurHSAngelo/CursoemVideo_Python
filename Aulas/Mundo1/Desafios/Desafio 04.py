@@ -1,0 +1,7 @@
+print('====== DESAFIO 04 ======')
+a = input('Digite qualquer coisa: ')
+print('Numérico?', a.isnumeric())
+print('Alfabético?', a.isalpha())
+print('Alfanumérico?', a.isalnum())
+print('Maiúsculo?', a.isupper())
+print('Minúsculo?', a.islower())
